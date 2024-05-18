@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <main>
       <div className="calcname">
-        <h2>Empy's Calculator</h2>
+        <h2>Empy&apos;s Calculator</h2>
       </div>
 
       <div className="res">
